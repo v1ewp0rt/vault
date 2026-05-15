@@ -1,5 +1,5 @@
 # vault
-SFTP Custom Text User Interface  for RSA Encrypted Personal Servers
+SFTP Custom Text User Interface for Encrypted Personal Servers
 
 # REQUIREMENTS
 - SFTP Server
