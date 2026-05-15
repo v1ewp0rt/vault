@@ -7,7 +7,7 @@ SFTP Custom Text User Interface for Encrypted Personal Storage Servers
 - Login Passphrase
 
 # CONFIGURATION
-Write a vault.conf file inside your .config directory with this variables:
+Write a vault.conf file inside your /home/user/.config directory with this variables:
 
 ```
 HOST         mydomain.duckdns.org
